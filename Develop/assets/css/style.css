@@ -21,6 +21,7 @@ body {
 }
 
 .header h1 .seo {
+    display: inline;
     color: #d9dcd6;
 }
 
@@ -51,6 +52,7 @@ p {
 }
 
 .hero {
+    
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -197,4 +199,19 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+/*added css code*/
+#n {
+    margin-right: 900px;
+}
+#EO{
+    font-size: large;
+    margin-right: 30px;
+}
+#ORM {
+    font-size: large;
+    margin-right: 30px;
+}
+#SMM{
+    font-size: large;
 }
